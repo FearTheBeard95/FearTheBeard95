@@ -33,7 +33,7 @@ I’ve been coding for 6 years in Java and Python, but I’ve fallen in love wit
  ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.dev.to/fearthebeard95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
                           
