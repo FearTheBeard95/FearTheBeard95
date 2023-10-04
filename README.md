@@ -1,10 +1,10 @@
-Hi 👋 My name is Carlos Sibalatami
+Hi 👋 My name is Carlos Sibalatami AKA Master Yoda
 ==================================
 
 Full Stack Developer
 --------------------
 
-I’ve been coding for 6 years in Java and Python, but I’ve fallen in love with JavaScript for both backend and front end
+I’ve been coding for 7 years in python and typescript.
 
 * 🌍  I'm based in Windhoek
 * 🖥️  See my portfolio at [MyPortfolio](http://carlos-sibalatani-portfolio.vercel.app/)
