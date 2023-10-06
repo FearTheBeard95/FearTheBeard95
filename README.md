@@ -9,7 +9,7 @@ I’ve been coding for 7 years in python and typescript.
 * 🌍  I'm based in Windhoek
 * 🖥️  See my portfolio at [MyPortfolio](http://carlos-sibalatani-portfolio.vercel.app/)
 * ✉️  You can contact me at [sibalatanics@outlook.com](mailto:sibalatanics@outlook.com)
-* 🚀  I'm currently working on [Campsite Booking App](http://github.com/FearTheBeard95/campsite-booking-app)
+* 🚀  I'm currently working on: a secret project
 * 🧠  I'm learning AWS Lambda
 
 <a href="https://www.github.com/FearTheBeard95" target="_blank" rel="noreferrer"><img
